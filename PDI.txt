@@ -1970,6 +1970,7 @@ posits = {
 {map='Rain',name='OOB Dark room ', x = 159.2299346923828, y = 207.7980499267578, z = -652.3504638671875},
 {map='Prairie_Village',name='OOB gate tample',x = 137.17567443847656, y = 255.138916015625, z = 502.0758056640625},
 {map='Prairie_Cave',name='OOB pillars',x = 280.1703796386719, y = 191.67813110351562, z = -90.11028289794922},
+{map='Prairie_Island',name='Dark room',x = 517.48876953125, y = 323.6723937988281, z = 423.3816833496094},
     {map='Dusk_Triangle',name='Leviatan',x=-406.2,y=7.3,z=-224.5}
 }
 
