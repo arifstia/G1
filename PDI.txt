@@ -348,36 +348,36 @@ wipeid1={--光翼文本
 
 Magic_id = {-- magic id
 
-	{'🙎character status',
+	{'  🙎 character spells',
 		{
-	    { 'cat curse', 847145578 },
-        { 'Rejuvenation Magic', 1692428656 },
-        { 'Zoom magic', 2142718166 },
-        { 'adult magic', 891098028 },
-        { 'magic magic', -1879316162 },
-        {'Shine Magic', 1097748727},
-        { 'full of vitality', 1750685908 },
-        { 'Floating Magic', 1860519737 },
+	    { 'cat curse', 847145578 }, 
+	    { 'Chibi Height', -305102667 },
+        { 'Height Small 3x', 1692428656 },
+        { 'Size Small 3x', 2142718166 },
+        { 'Height Large 3x', 891098028 },
+        { 'Size Large 3x', -1879316162 },
+        {'Glow', 1097748727},
+        { 'Energy', 1750685908 },
+        { 'Anti Gravity', 1860519737 },
         { 'Dragon Buster', -932650381 },
         { 'Dispel the darkness', 383062578 },
         { 'Rain resistance', -1463943689 },
-        { 'A lot of candlelight', -1727483534 },
+        { 'Wax 2x', -1727483534 },
         { 'Flying Blessing', -1362469224 }
 		}
 	},
-	{'🪑Back decoration magic',
+	{' 🎒 Props Spells',
 		{
 	    {"Love Fireworks",1403584133},
         {"Red velvet umbrella",1621987452},
         { 'The Voice of Aurora', 137268536 },
-        { 'ball game suit', -913145276 },
+        { 'ball game suit', -913145276 }, 
+        {'Umbrella', -992017029 },
         { 'Snowman back decoration', 1080405300 },
         { 'Cat back ornament', 1436679857 },
         { "Summer Umbrella", 2878211958 },
-        { "Summer Umbrella", 2878211958 },
         { "Seesaw of Love", 3874114315 },
         { "Summer Shell", 4123817368 },
-        { "Summer Umbrella", 2878211958 },
         { "Marshmallow", 3165352994 },
         { "Lantern", 1319710173 },
         { 'Treble Piano Magic', -1202427550 },
@@ -391,8 +391,7 @@ Magic_id = {-- magic id
         { 'Love Boat', 303877523 },
         { 'lantern', 1319710173 },
         { 'banquet table', 256924066 },
-        {'harp', -1001892262},
-       -- {'ppipa',1255001261​​},
+        {'harp', -1001892262},/
         { 'Swing', 1064080243 },
         { 'Seesaw', -2095749161 },
         { 'tea table', 10058409 },
@@ -404,7 +403,7 @@ Magic_id = {-- magic id
         { 'Tea table for three', 1598845731 }
 		}
 	},
-	{'👗️cloak magic',
+	{'👗️ cape spells',
 		{
         {'Aurora orange cloak', 939730131 },
         {'Yeti Cloak', -940505450 },
@@ -445,7 +444,7 @@ Magic_id = {-- magic id
         { 'Halloween cloak', 769892976 }
 		}
 	},
-	{'🦱hair magic',
+	{' 🦱 hair spells',
 	    {
         {'Aurora hairstyle', 239584271 },
         { 'Snowman head', 419537417 },
@@ -470,7 +469,7 @@ Magic_id = {-- magic id
         {'Halloween long hair', 116679863 }
 		}
 	},
-	{'🤡mask magic',
+	{' 🎭 mask spells',
 		{
         { 'Snowman Mask', 858950093 },
         { 'Cat mask', 3393326356 },
@@ -489,7 +488,7 @@ Magic_id = {-- magic id
         { 'White Fox Mask', 784922793 }
 		}
 	},
-	{'👑headwear magic',
+	{' 👑 head spells',
 		{
         { "Xingyue hair ornament", 2305213622 },
         { "Rainbow Hat", 3773476314 },
@@ -520,7 +519,7 @@ Magic_id = {-- magic id
         { 'Halloween corner', 1123843208 }
 		}
 	},
-	{'👖pants magic',
+	{'👖pants spells',
 		{
         {"New Pants",483128979},
         {'Aurora pants', -1134828593 },
@@ -532,7 +531,7 @@ Magic_id = {-- magic id
         { 'Halloween pants', 969946279 }
 		}
 	},
-	{'🌠Tail magic',
+	{'🌠Tail spells',
 		{
         { 'Rainbow trailing', 147016038 },
         { 'Rainbow trailing', 1301293614 },
@@ -550,10 +549,9 @@ Magic_id = {-- magic id
         { 'pink tail', 1665476229 }
 		}
 	},
-    	{'📢Sound Magic',
+    	{' 📢 Sound spells',
 		{
-        { 'crab calling', 875460884 },
-        { 'kizuna Ai voice', -1881863468 },
+        { 'Kizuna AI call', -1881863468 },
         { 'Bond love call 2', 2413103828 },
         {'Voice calling', 959071590 },
         {'Kunpeng calling', 1814753890 },
@@ -561,40 +559,42 @@ Magic_id = {-- magic id
         { 'Jellyfish calling', -957441587 }
 		}
 	},
-	{'🔅Teleport Magic',
+	{'🔅Teleport spells',
 		{
-        { 'Transfer Holy Island Magic', 598305233 },
-        { 'Teleport Morning Island Palace', 103122035 },
-        { 'Teleport Yunye Palace', -1633629698 },
-        { 'Transmission failed', 1153544860 },
-        { 'Transfer the hidden map of the rainforest copy', 224110574 },
-        { 'Transfer Rainforest cg', -1256468339 },
+        { 'Teleport Sanctuary ', 598305233 },
+        { 'Teleport Isle Elder', 103122035 }, 
+        { 'Teleport Forest Cave', 224110574 },
+        { 'Teleport Prairie Elder', -1633629698 },
+        { 'Teleport You & I', 1153544860 },
+        { 'Transfer Rainforest elder', -1256468339 },
         { 'Teleportation Ark', -210323960 },
-        { 'Teleporting Hidden Snow Peak', 1660914074 },
-        { 'Teleport Thousand Bird City', 248080515 },
-        { 'Transfer tomb soil cg', -1172691679 }
+        { 'Teleport Hermit Valley', 1660914074 },
+        { 'Teleport Valley Elder', 248080515 },
+        { 'Teleport Wasteland Elder', -1172691679 }
 		}
 	},
-	{'🤝Friendship Magic',
+	{' 🤝 Friendship spells',
 		{
         { 'Friendship back', 1405645877 },
         { 'Friendship Bear Hug', 1677246236 },
-        { 'Friendship transmission', 998754260 },
+        { 'Friendship Warp', 998754260 },
         { 'Friendship fight', 2137753158 },
         { 'Two people go', 953841005 }
 		}
 	},
-	{'⚡special magic',
-		{
+	{'⚡special spells',
+		{ 
+		{'Timeline Birthday Crab ', 875460884 },
         { 'Lucky Fireworks', 4010083509 },
-        { 'Sun and Moon Magic', 539651423 },
+        { 'Timeline Day & Night', 539651423 },
         { 'New Year Fireworks', 898079755 },
+        { 'Timeline Oreo ', 959071590 },
         { 'candle trick', 1441565188 },
         { 'Firework Stick Magic', -284883787 },
-        { 'Turtle appears', 1212897503 }
+        { 'Timeline Nature Turtle', 1212897503 }
 		}
 	},
-	{'❓10.4 Unknown magic',
+	{'❓10.4 Unknown spells',
 		{
         { 'Unknown magic 1', -305102667 },
         { 'Unknown Magic 2', -25012636 },
@@ -613,12 +613,11 @@ Magic_id = {-- magic id
         {'Unknown Magic 15', 1621987452}
 		}
 	},
-    {'💫Unclassified magic',
+    {' 💫Unclassified spells',
 		{
         { 'Unknown Magic 1', 1067647386 },
         { 'Rain resistance', 2831023607 },
         { 'Big guy', 2415651134 },
-        { 'A lot of candlelight', 2567483762 },
         { 'Flying Blessing', 2932498072 },
         { 'Christmas hat', 2885283383 },
         { 'Auspicious snow cloak', 3510136091 },
@@ -1244,8 +1243,8 @@ crpoints = {
 	{family = "Forest", name = "Elevated Clearing", map = "RainShelter", x = 69.47054290771484, y = 89.2098159790039, z = -2.8092153072357178},
 	{family = "Forest", name = "Elevated Clearing", map = "RainShelter", x = 98.27557373046875, y = 88.34962463378906, z = 16.273279190063477},
 	{family = "Forest", name = "Elevated Clearing", map = "RainShelter", x = 115.8653793334961, y = 89.45538330078125, z = 14.579297065734863},
-         
-        {family = "Forest", name = "Boneyard", map = "RainMid", x = 154.72926330566406, y = 153.88075256347656, z = -80.01103973388672},
+
+	{family = "Forest", name = "Boneyard", map = "RainMid", x = 154.72926330566406, y = 153.88075256347656, z = -80.01103973388672},
 	{family = "Forest", name = "Boneyard", map = "RainMid", x = 176.21690368652344, y = 136.11322021484375, z = -74.40979766845703},
 	{family = "Forest", name = "Boneyard", map = "RainMid", x = 220.8597412109375, y = 144.34341430664062, z = -63.919700622558594},
 	{family = "Forest", name = "Boneyard", map = "RainMid", x = 228.4488983154297, y = 144.74513244628906, z = -69.6482925415039},
@@ -1276,7 +1275,7 @@ crpoints = {
 	{family = "Forest", name = "Boneyard", map = "RainMid", x = 157.5, y = 178.7, z = 117.7},
 	{family = "Forest", name = "Boneyard", map = "RainMid", x = 273.1, y = 142.1, z = -21.6},
 
-        	{family = "Forest", name = "Forest Temple", map = "RainEnd", x = -11.367512702941895, y = 104.92166900634766, z = 7.069022178649902},
+	{family = "Forest", name = "Forest Temple", map = "RainEnd", x = -11.367512702941895, y = 104.92166900634766, z = 7.069022178649902},
 	{family = "Forest", name = "Forest Temple", map = "RainEnd", x = -16.14753532409668, y = 110.67167663574219, z = 15.755743026733398},
 	{family = "Forest", name = "Forest Temple", map = "RainEnd", x = -4.72360897064209, y = 104.92156219482422, z = -16.801280975341797},
 	{family = "Forest", name = "Forest Temple", map = "RainEnd", x = 7.661406517028809, y = 106.77925109863281, z = -13.379182815551758},
@@ -1964,7 +1963,7 @@ posits = {
     {map='Skyway',name='Skyway OBB',x=379.203,y=265.203,z=496.203},
 	{map='OrbitEnd',name='GALAXY',x=38.50898361206055,y=4085.533447265625,z=1718.953125},
     {map='Dusk_TriangleEnd',name='Manta (step 1)',x=801.4453735351562,y=0.7042173147201538,z=5.263149261474609},
-    {map='Dusk_TriangleEnd',name='Skystars(step2)',x=13.815317153930664,y=-44.58546829223633,z=-2.993274450302124},
+    {map='Dusk_TriangleEnd',name='Skystars(step2)',x=13.815317153930664,y=-44.58546829223633,z=-2.993274450302124}, 
     {map='Rain',name='OOB Tree🌲 ', x= 37.781829833984375, y = 182.02354431152344, z = -270.69757080078125}, 
     {map='Rain',name='OOB Top twin TREE🌲 ',x = 60.01573944091797, y = 225.3545379638672, z = -147.34336853027344},
 {map='Rain',name='OOB black Boat ', x = 138.98251342773438, y = 218.78561401367188, z = -647.9158325195312},
