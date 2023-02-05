@@ -553,7 +553,7 @@ Magic_id = {-- magic id
     	{'📢Sound Magic',
 		{
         { 'crab calling', 875460884 },
-        { 'Travel love call', -1881863468 },
+        { 'kizuna Ai voice', -1881863468 },
         { 'Bond love call 2', 2413103828 },
         {'Voice calling', 959071590 },
         {'Kunpeng calling', 1814753890 },
