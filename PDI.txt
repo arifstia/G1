@@ -391,7 +391,7 @@ Magic_id = {-- magic id
         { 'Love Boat', 303877523 },
         { 'lantern', 1319710173 },
         { 'banquet table', 256924066 },
-        {'harp', -1001892262},/
+        {'harp', -1001892262},
         { 'Swing', 1064080243 },
         { 'Seesaw', -2095749161 },
         { 'tea table', 10058409 },
